@@ -6,7 +6,7 @@ import Logo from '../../assets/graphics/logo-dd.png';
 const Header = () => {
 	return (
 		<header>
-			<div className='wrapper'>
+			<div className='wrap'>
 				<div className='logo'>
 					<img src={Logo} alt="logo" />
 				</div>
